@@ -22,7 +22,7 @@ require('db.php');
    if($count>=1)
    {
      
-      echo" <script>alert('you dont have any bookings');window.location.href = 'index.php';</script>"; 
+      echo" <script>alert('you already have bookings');window.location.href = 'index.php';</script>"; 
     
    }
      else{
