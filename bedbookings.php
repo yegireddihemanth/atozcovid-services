@@ -70,7 +70,7 @@ require('db.php');
  //   $password = '';
    // $db_name = "atozcovidservices";
    // $con = mysqli_connect($host, $user, $password, $db_name);
-$con = mysqli_connect($host, $user, $password, $db_name);
+//$con = mysqli_connect($host, $user, $password, $db_name);
 $e=$_SESSION['email'];
 $result=mysqli_query($con,"SELECT * from bedbookings where emailid='$e'");
 $a=mysqli_fetch_assoc($result);
