@@ -100,12 +100,8 @@ th, td {
     </tr>
 
    <?php
-   $host = "localhost";
-      $user = "root";
-      $password = '';
-      $db_name = "atozcovidservices";
-      $con = mysqli_connect($host, $user, $password, $db_name);
-     $sql="SELECT * FROM hospitaldb";
+   require('db.php');
+  $sql="SELECT * FROM hospitaldb";
      $res=mysqli_query($con,$sql);
 
       $count = mysqli_num_rows($res);
