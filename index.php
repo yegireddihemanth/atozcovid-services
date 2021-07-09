@@ -193,7 +193,7 @@
         <div class="text-center">
           <h3>In an emergency? Need help now?</h3>
           <p> Book an appointment with the best doctors in the city</p>
-          <a class="cta-btn scrollto" href="#appointment">Make an Make an Online Appointment</a>
+          <a class="cta-btn scrollto" href="apo.php">Make an Make an Online Appointment</a>
         </div>
 
       </div>
@@ -247,7 +247,7 @@
             <div class="count-box">
               <i class="icofont-patient-bed"></i>
               <span data-toggle="counter-up">18</span>
-              <p><strong>Hospitals </strong>are currently providing serices to the covid patients.</p>
+              <p><strong>Hospitals </strong>are currently providing services to the covid patients.</p>
               <a href="#">Find out more &raquo;</a>
             </div>
           </div>
