@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link href="assets/img/favicon.jpg" rel="icon">
+  <link href="assets/img/favicon.jpg" rel="icon">
+  
 <style>
     div 
     {
