@@ -21,12 +21,13 @@ require('db.php');
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+   <meta charset="utf-8">
+    <title>appointment booking</title>
+      <link rel="stylesheet" href=" "/>
 
     <link href="assets/img/favicon.jpg" rel="icon">
   <link href="assets/img/favicon.jpg" rel="icon">
-    <meta charset="utf-8">
-    <title>appointment booking</title>
-      <link rel="stylesheet" href=" "/>
+    
   </head>
   <style>
    input[type=text], select {
