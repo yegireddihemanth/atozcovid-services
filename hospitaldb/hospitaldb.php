@@ -2,11 +2,12 @@
 <html lang="en" dir="ltr">
   
   <head>
+    
+    <meta charset="utf-8">
+    <title>HospitalDetails</title>
     <link href="assets/img/favicon.jpg" rel="icon">
   <link href="assets/img/favicon.jpg" rel="icon">
   
-    <meta charset="utf-8">
-    <title>HospitalDetails</title>
   </head>
   <body>
   <style>
