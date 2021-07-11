@@ -12,7 +12,7 @@ require('db.php');
     $email=$_POST['email'];
     $s=$_POST['spec'];
     $fe=$_POST['docFees'];
-    echo "$n";
+   // echo "$n";
    if(mysqli_query($con,"INSERT INTO doctb(sno,username,pass,email,spec,docFees)
 VALUES(NULL,'$n','$pass','$email','$s','$fe')"))
 {
