@@ -27,8 +27,7 @@ require('db.php');
 
     <link href="assets/img/favicon.jpg" rel="icon">
   <link href="assets/img/favicon.jpg" rel="icon">
-    
-  </head>
+ 
   <style>
    input[type=text], select {
   width: 100%;
@@ -95,6 +94,7 @@ div {
   text-align: center;
 }
 </style>
+ </head>
   <body id="b1">
  
   <h3>Book an online appointment with concerned doctor</h3>
