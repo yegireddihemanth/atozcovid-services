@@ -30,7 +30,9 @@ require('db.php');
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-
+ 
+    <link href="assets/img/favicon.jpg" rel="icon">
+  <link href="assets/img/favicon.jpg" rel="icon">
     <meta charset="utf-8">
     <title>Bedbooking</title>
    <link rel="stylesheet" href=" "/>
