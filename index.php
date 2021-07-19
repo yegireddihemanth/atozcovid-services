@@ -159,9 +159,9 @@
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="icofont-drug"></i></div>
-              <h4 class="title"><a href="bedbookingform.php">Bed booking</a></h4>
+              <h4 class="title"><a href="bedbookingform.php">Book a bed who are in critical condition</a></h4>
               <p class="description"></p>
             </div>
           </div>
