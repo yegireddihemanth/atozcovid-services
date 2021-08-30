@@ -51,7 +51,7 @@
 ?>
     <form class="form" method="post" name="login" >
         <h1 class="login-title">Login</h1>
-        <input type="text" class="login-input" name="email" placeholder="Email" autofocus="true"/>
+        <input type="email" class="login-input" name="email"  pattern="[^ @]*@[^ @]*" placeholder="Email" autofocus="true"/>
         <input type="password" class="login-input" name="password" placeholder="Password"/>
         <input type="submit" value="Login" name="submit" class="login-button"/>
         <p class="link"><a href="registration.php">New Registration</a></p>
